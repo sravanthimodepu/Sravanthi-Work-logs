@@ -1,0 +1,260 @@
+** Work logs **
+*** From Feb-2015 to Aug-2015 ***
+* 16-Feb-2015 to 20-Feb-2015 *
+** I have started learning linux course online from edx (https://www.edx.org/).
+** Geeta mam assingned me some work regarding interviews for HTML and PHP developers.
+** I have tested few labs from IIITH i.e,. Computer Programming, Physical Sciences, Physical Chemistry.
+
+
+* 22-Feb-2015 to 27-Feb-2015 *
+** I have learned how to deploy the labs and run on the localhost. 
+** I was given a task to install and set the path for java and java 3D. 
+** Parallely I was learning linux course online from Edx (https://www.edx.org/) too. 
+** I have learned how to deploy the labs and deployed few labs on localhost 
+(Physical chemistry,Basic Engineering Mechanics and Strength of Materials,Physical Sciences,Hydraulics and fluid Mechanics,Electromagnetic Theory).
+
+
+* 2-Mar-2015 to 6-Mar-2015 *
+** I have prepared a workshop feedback report which was held on 27th & 28th Feb 2015 .
+** Raised issues on Github  
+** Paralelly I have learned linux course online from edx .
+
+
+* 9-Mar-2015 to 13-Mar-2015 *
+
+** I have learned openVZ and how to run the labs over ADS. 
+** I have tested the labs on localhost and ADS (All the 20 labs from IIITH).
+
+
+* 16-Mar-2015 to 20-Mar-2015 *
+
+** I was working on QA. I have tested the labs from vlab.co.in. 
+** I went to workshop from 17th Feb-19th Feb. 
+** Continued with QA process.
+
+
+* 23-Mar-2015 to 27-Mar-2015 *
+
+** I have prepared the workshop feedback report held on 17th,18th & 19th of March. 
+** I have raised an issues on github. 
+** I was working on QA from vlab.co.in.
+
+
+* 30-Mar-2015 to 2-Apr-2015 *
+
+** I was worked on QA from vlab.co.in and I was started QA on IIITH labs.
+ 
+
+* 6-Apr-2015 to 10-Apr-2015 *
+
+** I have tested the labs which are being used in the workshop held on 8th Apr. 
+** We went for workshop held on 8th Apr and done a workshop feedback report. 
+** I have tested the labs which are running on Java 3D and gave Java 3D path setup 
+   instructions link to those labs. 
+
+
+* 13-Apr-2015 to 17-Apr-2015 *
+
+** I have deployed the next 7 labs from second set of labs and tested on the local machine.
+** Parallely worked on QA.
+** I have tested few labs on ADS working on Java 3D.
+
+
+
+* 20-Apr-2015 to 24-Apr-2015 *
+
+I have installed Java on centOS and done a documentation for Java Installation on CentOS. Parallely working on QA. 
+
+
+26th Apr -30th Apr
+
+I worked on QA for IIITH labs. I deployed the next 3 labs from 2nd set of priorotized labs. Parallely i have learned emacs editor
+
+
+1st may to 8th may
+
+Continued with integration process. Done a documentation on QA. I have done separate sheets on QA for the institutes in vlab.co.in. 
+
+
+11th may to 19th may
+
+I have started working on QA for the next set of priorotized labs which are at level 5. I was assigned to do QA worksheet for the first set of IIITH labs. I was started learning HTML and emacs editor.
+
+
+18th may to 26th may
+
+Continued with the integration process for 2nd set of IIITH labs. Now 10 labs are at level 5. Parallely doing QA for the level 5 labs.
+
+
+26th may to 30th may
+
+Continued with the last week work.( Deploying labs & with QA work.) Parallely i have learned emacs editor
+
+
+1st June & 2nd June
+
+I have worked on deploying 2nd set of prioritized set of IIITH labs. Now 10 labs are at level 5, 3labs are at level 3, 3labs are at level2. Continued with the QA for 2nd set of IIITH labs
+
+
+3rd June to 16th June 
+
+I was not well
+
+
+17th June to 26th June
+
+Working on moving all the 13 labs from level 5 to level 6. Now 13 labs are at level 5, 3labs are at level2. Continued with the QA for 2nd set of IIITH labs. I was also assigned with the work to update the syllabus list.( labs or subjects which are covered in their in their respective universities.)
+
+
+29th June to 3rd July
+
+Working on moving all the 13 labs from level 5 to level 6. Now 13 labs are at level 5, 3labs are at level2. Continued with the QA for 2nd set of IIITH labs
+
+
+6th July to 10th July
+
+Working on moving remaining 3 labs from level2 to level6 (2nd set of prioritised labs). Continued with the QA for 2nd set of IIITH labs
+
+
+12th July to 17th July
+
+Working on listing all the executable files for the first set of labs (20 labs) from iiith and I was worked on QA from vlab.co.in
+
+
+20th July to 24th July
+
+Working on listing all the executable files for the second set of labs (20 labs) from iiith and I was worked on QA from vlab.co.in
+
+
+27th July to 31st July
+
+Working on listing all the executable files for the second set of labs (20 labs) from iiith . Worked on vlabs new landing page like updating url's of the labs.
+
+
+3rd Aug to 7th Aug
+
+Worked on vlabs landing page, updated the links for the labs and created the templates for all institutes and for all the streams
+
+
+10th Aug to 14th Aug
+
+Met Professors regarding source files of first set of the labs. 
+
+
+17th Aug to 21st Aug
+
+Collected Source files for the first set (20 labs) of iiith labs and followed the integartion process for the labs having complete sources
+
+
+24th Aug to 26th Aug
+
+Worked on moving the first set of labs which have complete source files from level1 to level6. Out of 20 labs from first set 10 labs are having complete source files ,where 5labs are at level6, 4labs are at level4,one lab is at level2.
+** I have installed Java on centOS and done a documentation for Java Installation on CentOS. 
+** Parallely working on QA. 
+** I have referred to HTML course online.
+
+* 26-Apr-2015 to 30-Apr-2015 *
+
+** I worked on QA for IIITH labs. 
+** I deployed the next 3 labs from 2nd set of priorotized labs. 
+** Parallely I have learned emacs editor
+
+
+* 1-May-2015 to 8-May-2015 *
+
+** Continued with integration process for 2nd set of labs from IIIT-H. 
+** Done a documentation on QA. 
+** I have done separate sheets on QA for the institutes in vlab.co.in. 
+
+
+* 11-May-2015 to 19-May-2015 *
+
+** I have started working on QA for the next set of priorotized labs which are at level 5 from IIIT-H. 
+** I was assigned to do QA worksheet for the first set of IIIT-H labs. 
+** I have referred HTML course and emacs editor online.
+
+
+* 18-May-2015 to 26-May-2015 *
+
+** Continued with the integration process for 2nd set of IIIT-H labs. 
+** Now 10 labs are at level 5. 
+** Parallely doing QA for the level 5 labs.
+
+
+* 26-May-2015 to 30th may *
+
+** Continued with the last week work.( Deploying labs & with QA work.) 
+** Parallely i have learned emacs editor.
+
+
+* 1-June-2015 to 2-June-2015 *
+
+** I have worked on deploying 2nd set of prioritized set of IIIT-H labs. 
+** Now 10 labs are at level 5, 3labs are at level 3, 3labs are at level2. 
+** Continued with the QA for 2nd set of IIITH labs
+
+
+* 3-June-2015 to 16-June-2015 *
+
+** I was on leave due to illness.
+
+
+* 17-June-2015 to 26-June-2015 *
+
+** Working on moving all the 13 labs from level 5 to level 6 from second set of IIIt-H labs. 
+** Now 13 labs are at level 5, 3labs are at level2. 
+** Continued with the QA for 2nd set of IIITH labs. 
+** I was also assigned with the work to update the syllabus list.( labs or subjects which are covered in their respective universities.)
+
+
+* 29-June-2015 to 3-July-2015 *
+
+** Working on moving all the 13 labs from level 5 to level 6. 
+** Now 13 labs are at level 5, 3labs are at level3. 
+** Continued with the QA for 2nd set of IIITH labs.
+
+
+* 6-July-2015 to 10-July-2015 *
+
+** Working on moving remaining 3 labs from level3 to level6 (2nd set of prioritised labs). 
+** Continued with the QA for 2nd set of IIITH labs
+
+
+* 12-July-2015 to 17-July-2015 *
+
+** Working on listing all the executable files for the first set of labs (20 labs) from iiith.
+** I was worked on QA from vlab.co.in .
+
+
+* 20-July-2015 to 24-July-2015 *
+
+** Working on listing all the executable files for the second set of labs (20 labs) from iiith.
+** I was worked on QA from vlab.co.in
+
+
+* 27-July-2015 to 31-July-2015 *
+
+** Working on listing all the executable files for the second set of labs (20 labs) from iiith . 
+** Worked on vlabs new landing page like updating url's of the labs.
+
+
+* 3-Aug-2015 to 7-Aug-2015 *
+
+** Worked on vlabs new landing page, updated the links for the labs and created the templates for all institutes and for all the streams
+
+
+* 10-Aug-2015 to 14-Aug-2015 *
+
+** Met Professors regarding source files of first set of the labs. 
+
+
+* 17-Aug-2015 to 21-Aug-2015 *
+
+** Collected Source files for the first set (20 labs) of iiith labs.
+** Followed the integartion process for the labs having complete sources
+
+
+* 24-Aug-2015 to 26-Aug-2015 *
+
+** Worked on moving the first set of labs which have complete source files from level1 to level6. 
+** Out of 20 labs from first set 10 labs are having complete source files ,where 5labs are at level6, 4labs are at level4,one lab is at level2.
